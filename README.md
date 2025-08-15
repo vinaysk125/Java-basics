@@ -1,3 +1,4 @@
+
 "Java repo setup
 ## Day 1: Java Basics
 - Java program structure
@@ -58,3 +59,12 @@ Examples practiced:
 Take 5 integers from user → print sum & average
 
 Find largest and smallest element from array
+
+Day 3: Solved 5 HackerRank problems on Loops & Arrays
+
+- ReverseArray
+- Hackerrank_JavaLoops_1
+- Hackerrank_Java_1D_Array
+- Hackerrank_Java_Subarray
+- Hackerrank_Arrays_DS
+- Hackerrank_Java_Loops_2
