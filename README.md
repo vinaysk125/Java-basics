@@ -68,3 +68,8 @@ Day 3: Solved 5 HackerRank problems on Loops & Arrays
 - Hackerrank_Java_Subarray
 - Hackerrank_Arrays_DS
 - Hackerrank_Java_Loops_2
+
+Day 4: String concept and arrayString
+Method/function parameter passing/argument.
+Solved hackerrank problem.
+Clearing concepts
