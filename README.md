@@ -85,3 +85,93 @@ Student.java, StudentTest.java, StudentService1.java, StudentServiceTest1.java
 BankAccount.java, BankAccountTest.java
 
 Rectangle.java, RectangleTest.java
+
+
+# Week1 14 September 2025
+
+Day1_HelloWorld.java, Day1_Variables.java, Day1_ControlFlow.java, Day1_Loops.java
+
+# Java Basics - Vinay
+
+This repository contains my **Java learning journey**, starting from basics to advanced concepts like Spring Boot and full-stack projects.  
+Each week is structured with daily coding exercises, programs, and small projects.  
+
+---
+
+## 📂 Project Structure
+
+java-basics-vinay/
+│
+├── src/
+│ ├── Week1/
+│ │ ├── Day1_HelloWorld.java
+│ │ ├── Day1_Variables.java
+│ │ ├── Day1_ControlFlow.java
+│ │ ├── Day1_Loops.java
+│ │ └── ...
+│ ├── Week2/
+│ ├── Week3/
+│ └── ...
+│
+└── README.md
+
+
+---
+
+## 📅 Progress Tracker
+
+### ✅ Week 1 – Java Basics + OOP (Day 1–7)
+
+#### Day 1 – Java Basics
+- [x] Hello World program  
+- [x] Variables & Data Types  
+- [x] Type Casting  
+- [x] Temperature Converter (Celsius ↔ Fahrenheit)  
+- [x] Control Flow (if-else, switch)  
+- [x] Loops (for, while, do-while)  
+- [x] Programs: Day1_HelloWorld.java, Day1_Variables.java, Day1_ControlFlow.java, Day1_Loops.java  
+
+![alt text](image.png)
+
+#### Day 2 – Classes & Objects  
+- [ ] Student Class with constructor  
+- [ ] Method Overloading practice  
+- [ ] Object creation examples  
+
+#### Day 3 – Inheritance & Polymorphism  
+- [ ] Bank Account example  
+- [ ] Animal → Dog, Cat hierarchy  
+
+#### Day 4 – Abstraction & Interfaces  
+- [ ] Abstract class: Shape → Circle, Rectangle  
+- [ ] Interface: Vehicle → Car, Bike  
+
+#### Day 5 – Exception Handling  
+- [ ] Try-catch-finally examples  
+- [ ] Custom Exception: InsufficientFundsException  
+
+#### Day 6 – Collections Framework  
+- [ ] ArrayList, HashSet, HashMap  
+- [ ] Word frequency counter  
+
+#### Day 7 – Mini Project  
+- [ ] Library Management CLI app  
+
+---
+
+## 🛠 Tools Used
+- **Java 17**  
+- **IntelliJ IDEA**  
+- **Git & GitHub**  
+- **MySQL (for later weeks)**  
+
+---
+
+## 🚀 Goals
+- Build **2 full-stack projects** using Java + Spring Boot + MySQL  
+- Solve **DSA problems on LeetCode**  
+- Transition into a **Backend Developer role** within 3 months  
+
+---
+
+✍️ *Maintained by Vinay as part of career transition journey.*

@@ -6,7 +6,7 @@ public class Day1_Loops {
         // Print numbers 1–10 - for loop because know exact condition
 
         for (int i=1; i<=10; i++){
-            System.out.println(i);
+            System.out.print(i + " ");
         }
 
         // Sum of first N natural numbers. - while look because know condition
@@ -17,12 +17,14 @@ public class Day1_Loops {
             sum = sum + j;
             j++;
         }
-        System.out.println("Sum of " + n + " is " + sum);
+        System.out.println("\nSum of " + n + " is " + sum);
 
         // Reverse a number (123 → 321) - while loop because know exact condition
 
         int original_Number = 123;
         int reverse_Number = 0;
+
+        int original_Number_Stored = original_Number;
 
         while (original_Number > 0){
             int digit = original_Number % 10;
@@ -30,7 +32,7 @@ public class Day1_Loops {
             reverse_Number = reverse_Number * 10 + digit;
             original_Number = original_Number / 10;
         }
-        System.out.println("Reverse number of " + original_Number + " is = " + reverse_Number);
+        System.out.println("Reverse number of " + original_Number_Stored + " is = " + reverse_Number);
 
         // Fibonacci series up to N terms - do while because know exact condition and at least 1 run
 
