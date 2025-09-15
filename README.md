@@ -175,3 +175,22 @@ java-basics-vinay/
 ---
 
 ✍️ *Maintained by Vinay as part of career transition journey.*
+
+---
+
+#### Day 2 – Classes & Objects  
+- [x] Student Class with constructor  
+- [x] Method Overloading practice  
+- [x] Object creation examples 
+
+- ✅ Student.java (class file) with fields, constructors, methods, overloading.
+- ✅ Day2_ClassDemo.java (Main file) & Day2_MiniProgram.java working.
+
+⏳ Hour – Created Mini Program
+🔹 Task - StudentProgram.java (class file), StudentMiniProgram.java (Main file)
+- Create 3 students.
+- Print details & grades.
+- Update marks for one student.
+- Display updated grade.
+
+---
