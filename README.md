@@ -194,3 +194,10 @@ java-basics-vinay/
 - Display updated grade.
 
 ---
+
+#### Day 3 – Inheritance & Polymorphism  
+- [x] Bank Account example  
+- [x] Animal → Dog, Cat hierarchy  
+- [x] Added Day3_OOP - Encapsulation, Inheritance, Polymorphism with School demo
+
+---
