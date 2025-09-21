@@ -201,3 +201,9 @@ java-basics-vinay/
 - [x] Added Day3_OOP - Encapsulation, Inheritance, Polymorphism with School demo
 
 ---
+
+#### Day 4 – Abstraction & Interfaces  
+- [x] Abstract class: Shape → Circle, Rectangle  
+- [x] Interface: Vehicle → Car, Bike 
+
+--[x] Added Day4_OOP - Abstraction and Interfaces with Banking demo
