@@ -5,7 +5,7 @@ public class Calculation {
         double b = 3.0;
 
         System.out.println("This is calculation program.");
-        // Arithmatic operators
+        // Arithmetic operators
         System.out.println("Sum of a +  b = " + (a+b));
         System.out.println("Difference of a - b = " + (a-b));
         System.out.println("Product of a * b = " + (a*b));

@@ -1,5 +1,5 @@
 package Day5_OOPS1;
-    // public Class dog
+    // public TestClass dog
 
     class dog {
         String name;
