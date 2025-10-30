@@ -12,7 +12,7 @@ class StudentInheritance extends Day3_PersonInheritanceClass {
     String course;
 
     public void displayInfo2() {
-        System.out.println(name + " is studying " + course);
+        System.out.println(name + " is studying " + course + " Age = " + age);
     }
 }
 class TeacherInheritance extends Day3_PersonInheritanceClass {

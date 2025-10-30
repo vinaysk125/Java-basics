@@ -10,6 +10,7 @@ public class Day3_PersonInheritanceClassMain {
         StudentInheritance s = new StudentInheritance();
         s.name ="Vinay";
         s.course ="Java";
+        s.age = 21;
         s.displayInfo2();
 
         TeacherInheritance t = new TeacherInheritance();
