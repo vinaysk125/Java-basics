@@ -206,4 +206,17 @@ java-basics-vinay/
 - [x] Abstract class: Shape → Circle, Rectangle  
 - [x] Interface: Vehicle → Car, Bike 
 
---[x] Added Day4_OOP - Abstraction and Interfaces with Banking demo
+
+Checkpoint Summary
+
+By completing this section, you’ve mastered:
+
+✅ extends keyword
+
+✅ Method overriding
+
+✅ Runtime polymorphism (dynamic dispatch)
+
+✅ super() and constructor chaining
+
+--[x] Added Day4_OOP - Abstraction "and Interfaces with Banking demo
