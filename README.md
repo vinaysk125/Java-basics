@@ -219,4 +219,6 @@ By completing this section, you’ve mastered:
 
 ✅ super() and constructor chaining
 
+Week2 Day 5 — key takeaways (access rules, static usage, final patterns, inner classes)
+
 --[x] Added Day4_OOP - Abstraction "and Interfaces with Banking demo
