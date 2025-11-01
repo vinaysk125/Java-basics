@@ -12,7 +12,7 @@ class TeacherPoly extends Day3_PersonPoly{
 }
 class StudentPoly extends Day3_PersonPoly{
     public void displayInfoPoly(){
-        System.out.println("Hi I am student!");
+        System.out.println("Hi I am Student!");
     }
 }
 

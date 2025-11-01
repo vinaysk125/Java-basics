@@ -24,7 +24,7 @@ public class TestClassDefaultConstructor {
         }
 
         void display() {
-            System.out.println("Name of student = " + name + " age = " + age);
+            System.out.println("Name of Student = " + name + " age = " + age);
         }
     }
 public static void main(String[] args){

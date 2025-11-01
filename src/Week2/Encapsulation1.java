@@ -35,8 +35,5 @@ public static void main(String[] args){
         System.out.println("Roll Number is = " + s1.getRollNumber());
         s1.setMarks(100.00);
         System.out.println("Marks is = " + s1.getMarks());
-
-
-
 }
 }
