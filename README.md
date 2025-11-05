@@ -222,3 +222,13 @@ By completing this section, you’ve mastered:
 Week2 Day 5 — key takeaways (access rules, static usage, final patterns, inner classes)
 
 --[x] Added Day4_OOP - Abstraction "and Interfaces with Banking demo
+
+📘 In Word Notes (add this section):
+
+Arrays – fixed size, indexed access, common methods
+
+Strings – immutable, equals vs ==, substring, replace
+
+StringBuilder – mutable, efficient for concatenation
+
+Common interview problems done today
