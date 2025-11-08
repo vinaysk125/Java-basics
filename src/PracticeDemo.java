@@ -1,12 +1,16 @@
+import javax.swing.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class PracticeDemo {
-//    Reverse an array
-//    Find second-largest element
-//    Check if array is sorted
-//    Rotate array by one position
-//    Count frequency of each element
+public static void main(String[] args) {
+// First not repeating character in string
 
+    String s = "Hello Vinay";
 
+    for (int i=s.length()-1; i>=0; i--) {
+        char ch = s.charAt(i);
+        System.out.print(ch + " ");
+    }
+}
 }

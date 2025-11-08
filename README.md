@@ -232,3 +232,10 @@ Strings – immutable, equals vs ==, substring, replace
 StringBuilder – mutable, efficient for concatenation
 
 Common interview problems done today
+
+DSA Core Recap:
+- Array: fixed-size, indexed, use Arrays.sort(), Arrays.toString()
+- String: immutable, use equals() not ==
+- StringBuilder: mutable, efficient concatenation
+- Recursion: function calls itself until base condition met
+- Common Interview Patterns: reverse, palindrome, frequency, factorial, Fibonacci
