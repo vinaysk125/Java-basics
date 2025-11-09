@@ -239,3 +239,19 @@ DSA Core Recap:
 - StringBuilder: mutable, efficient concatenation
 - Recursion: function calls itself until base condition met
 - Common Interview Patterns: reverse, palindrome, frequency, factorial, Fibonacci
+
+---
+
+Day1_ArrayListDemo.java
+
+Day1_LinkedListDemo.java
+
+Day1_HashSetDemo.java
+
+Day1_TreeSetDemo.java
+
+Day1_HashMapDemo.java
+
+Day1_TreeMapDemo.java
+
+---
