@@ -265,3 +265,13 @@ Week 3 - Day 2
 | `Day2_SortDemo.java`         | Sorting primitives                |
 | `Day2_ComparableDemo.java`   | Natural order with Comparable     |
 | `Day2_ComparatorDemo.java`   | Custom sorting using Comparator   |
+
+---
+Week 3 - Day 3
+
+| File                          | Description                  |
+| ----------------------------- | ---------------------------- |
+| `Day3_ExceptionHandling.java` | Multi-catch example          |
+| `Day3_CustomException.java`   | Custom checked exception     |
+| `ThrowsExample.java`          | `throw` and `throws` usage   |
+| `Day3_BankApp.java`           | Bank simulation mini project |
