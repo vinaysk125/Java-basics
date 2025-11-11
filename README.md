@@ -255,3 +255,13 @@ Day1_HashMapDemo.java
 Day1_TreeMapDemo.java
 
 ---
+Week 3 - Day 2
+✅ End of Day 2 Deliverables
+
+| File                         | Description                       |
+| ---------------------------- | --------------------------------- |
+| `Day2_IteratorDemo.java`     | Basic iteration with safe removal |
+| `Day2_ListIteratorDemo.java` | Forward & backward traversal      |
+| `Day2_SortDemo.java`         | Sorting primitives                |
+| `Day2_ComparableDemo.java`   | Natural order with Comparable     |
+| `Day2_ComparatorDemo.java`   | Custom sorting using Comparator   |
