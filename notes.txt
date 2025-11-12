@@ -1,0 +1,3 @@
+Hello 
+This file is created using Java FileWriter.
+Learning File I/O step by step.

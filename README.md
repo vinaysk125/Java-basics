@@ -275,3 +275,13 @@ Week 3 - Day 3
 | `Day3_CustomException.java`   | Custom checked exception     |
 | `ThrowsExample.java`          | `throw` and `throws` usage   |
 | `Day3_BankApp.java`           | Bank simulation mini project |
+
+✅ End-of-Day Deliverables
+
+| File                          | Description                          |
+| ----------------------------- | ------------------------------------ |
+| `Day4_FileWriterDemo.java`    | Write to file                        |
+| `Day4_FileReaderDemo.java`    | Read from file                       |
+| `Day4_BufferedDemo.java`      | Buffered I/O                         |
+| `Day4_SerializationDemo.java` | Object serialization/deserialization |
+
