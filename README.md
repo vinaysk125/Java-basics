@@ -276,6 +276,8 @@ Week 3 - Day 3
 | `ThrowsExample.java`          | `throw` and `throws` usage   |
 | `Day3_BankApp.java`           | Bank simulation mini project |
 
+Week 3 - Day 4
+
 ✅ End-of-Day Deliverables
 
 | File                          | Description                          |
@@ -285,3 +287,12 @@ Week 3 - Day 3
 | `Day4_BufferedDemo.java`      | Buffered I/O                         |
 | `Day4_SerializationDemo.java` | Object serialization/deserialization |
 
+Week 3 - Day 5
+
+✅ End-of-Day Deliverables
+
+File	Description
+Day5_WrapperDemo.java	Wrapper classes + autoboxing
+Day5_GenericClassDemo.java	Generic class example
+Day5_GenericMethodDemo.java	Generic methods
+Day5_GenericCalculator.java	Bounded generic class example
