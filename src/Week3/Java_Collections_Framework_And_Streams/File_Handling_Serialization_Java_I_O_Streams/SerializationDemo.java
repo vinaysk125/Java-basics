@@ -1,4 +1,4 @@
-package Java_Collections_Framework_And_Streams.File_Handling_Serialization_Java_I_O_Streams;
+package Week3.Java_Collections_Framework_And_Streams.File_Handling_Serialization_Java_I_O_Streams;
 
 import java.io.*;
 import java.util.*;

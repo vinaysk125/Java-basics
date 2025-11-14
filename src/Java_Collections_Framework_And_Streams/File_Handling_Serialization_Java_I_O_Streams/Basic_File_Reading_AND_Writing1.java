@@ -2,7 +2,7 @@ package Java_Collections_Framework_And_Streams.File_Handling_Serialization_Java_
 
 import java.io.*;
 
-public class Basic_File_Reading_AND_Writing {
+public class Basic_File_Reading_AND_Writing1 {
     public static void main(String[] args) {
 
         File file = new File("data.txt");

@@ -1,4 +1,4 @@
-package Java_Collections_Framework_And_Streams.Iteration_Sorting_Comparator_And_Comparable.Iterators_AND_Traversal_Techniques;
+package Week3.Java_Collections_Framework_And_Streams.Iteration_Sorting_Comparator_And_Comparable.Iterators_AND_Traversal_Techniques;
 
 import java.util.ArrayList;
 import java.util.Iterator;

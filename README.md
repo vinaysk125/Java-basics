@@ -296,3 +296,16 @@ Day5_WrapperDemo.java	Wrapper classes + autoboxing
 Day5_GenericClassDemo.java	Generic class example
 Day5_GenericMethodDemo.java	Generic methods
 Day5_GenericCalculator.java	Bounded generic class example
+
+Week 3 - Day 6
+
+Student Management System (Week 3 Project)
+
+Concepts Used:
+- OOP: classes, objects, constructors, getters/setters
+- Collections: HashMap, ArrayList
+- Comparable: Sorting by marks
+- Exceptions: File I/O + input validation
+- File Handling: Serialization/deserialization
+- try-with-resources: safe file operations
+- Clean architecture: entities, services, utils, app

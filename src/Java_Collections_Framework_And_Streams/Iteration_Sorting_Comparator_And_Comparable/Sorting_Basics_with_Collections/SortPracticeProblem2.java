@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 
 //  Create ArrayList<String> of countries and sort alphabetically.
-public class SortPracticeProblem1 {
+public class SortPracticeProblem2 {
     static void main(String[] args) {
         ArrayList<String> countries = new ArrayList<>(List.of("India", "America", "Japan", "Gulf"));
         System.out.println(countries);

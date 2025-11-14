@@ -1,12 +1,13 @@
-import java.util.*;  // for List, ArrayList, Collections, Comparator
+package Java_Interview_Problems;
 
-public class PracticeDemo {
-    static void main(String[] args) {
-
-//        Merge two sorted array in java {1,2,3,0,0,0} , {3,4,5}
+public class Merge_two_sorted_array {
+    public static void main(String[] args) {
+        //        Merge two sorted array in java {1,2,3,0,0,0} , {3,4,5}
+//        M and n size are fixed here
+//        Time complexity = O(m+n) and space complexity O(1)
         int[] num1 = {1,2,3,0,0,0};
         int[] num2 = {3,4,5};
-        int m = 3, n = 3;
+        int m = 3, n = 3; // must be known
         int i = m - 1;
         int j = n - 1;
         int k = m + n - 1;
